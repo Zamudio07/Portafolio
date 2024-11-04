@@ -352,9 +352,7 @@ h3 {
 
 #tab1:checked~#tab__content--1,
 #tab2:checked~#tab__content--2,
-#tab3:checked~#tab__content--3,
-#tab4:checked~#tab__content--4,
-#tab5:checked~#tab__content--5 {
+#tab3:checked~#tab__content--3{
   display: block;
 }
 
@@ -380,34 +378,20 @@ h3 {
   box-sizing: border-box;
 }
 
-.firmas {
-  background-image: url('imagenes/firmas.ico');
-  background-size: 100%;
-  background-position: center;
-
-
-}
-
-.especialista {
-  background: url('imagenes/logoTuEspecialista.png');
-  background-size: 100%;
-  background-position: center;
-}
-
-.siga {
-  background: url('imagenes/SIGALogo.png');
-  background-size: 100%;
-  background-position: center;
-}
-
-.mytea {
-  background: url('imagenes/logomytea.png');
+.ser {
+  background-image: url('imagenes/logoSer.png');
   background-size: 100%;
   background-position: center;
 }
 
 .lily {
-  background: url('imagenes/logosolito.svg');
+  background: url('imagenes/logoLily.png');
+  background-size: 100%;
+  background-position: center;
+}
+
+.segmich {
+  background: url('imagenes/logoSegmich.png');
   background-size: 100%;
   background-position: center;
 }
